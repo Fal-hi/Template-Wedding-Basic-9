@@ -511,8 +511,8 @@ ul.navbar-bawah li a {
   .header img.ellipse:nth-child(2) {
     display: block;
     max-width: 100%;
-    height: 30%;
-    margin-top: 20rem;
+    height: 40%;
+    margin-top: 10rem;
   }
   .header .wi {
     margin-top: -14rem;
